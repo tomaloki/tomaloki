@@ -1,16 +1,19 @@
-### Hi there 👋
+☀️ **Well hello there!** ☀️ 
 
-<!--
-**tomaloki/tomaloki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I see that you have stumbled across my git-account - how lovely! 🎈
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Tonje Martine, and describing myself in five emoji's would look something like this:
+
+🤸 🍷 🐆 🌞 💃
+
+**<ins>Some information about me<ins>**:
+  
+  
+I study Computer Engineering at OsloMET, where I am currently in my second year. 
+
+I am currently working on updating this info-page about me, what I am doing and learning at the moment
+and of course adding code and stuff that I am working on. 🔨 🧰
+
+
+
