@@ -1,6 +1,7 @@
 ☀️ **Well hello there!** ☀️ 
 
-![image](https://user-images.githubusercontent.com/55739737/150966380-a23fda2b-6888-4d8c-b420-b940e88a0adc.png)
+![Alt Text](https://user-images.githubusercontent.com/55739737/150966380-a23fda2b-6888-4d8c-b420-b940e88a0adc.png)
+
 
 I see that you have stumbled across my git-account - how lovely! 🎈
 
