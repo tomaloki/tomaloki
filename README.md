@@ -1,6 +1,6 @@
 ☀️ **Well hello there!** ☀️ 
 
-![Alt Text](https://media.giphy.com/media/5L57f5fI3f2716NaJ3/giphy.gif)
+![Alt Text](https://media.giphy.com/media/lZzhBZW7kvzWYtydVA/giphy.gif)
 
 I see that you have stumbled across my git-account - how lovely! 🎈
 
