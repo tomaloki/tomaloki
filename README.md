@@ -11,11 +11,9 @@ My name is Tonje Martine, and describing myself in five emoji's would look somet
   
 I have a Bachelor's degree in Software Engineering from OsloMet, and I am currently pursuing a Master's degree in Data Science at NMBU.
 Currently I am studying the follwing subjects:
-  * Applied Machine Learning
-  * Computer Science for Data Scientists
-  * Data Handling and Analysis
-  * Applied Linear Algebra
- 
+- Applied Machine Learning
+
+ In addition to this I am working part-time at the Norwegian Meteorological Institute as a Software Engineer, and this is also where I will be writing my thesis. 
 <h4 align="left">LinkedIn profile:</h4>
 <b></b>
 <p align="left">
