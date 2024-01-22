@@ -5,7 +5,7 @@ Hi there 🙋🏼‍♀️
 My name is Tonje Martine, and this is my humble git account - welcome!
 
 I have a Bachelor's degree in Software Engineering from OsloMet, and I am currently pursuing a Master's degree in Data Science at NMBU.
-I am currently working on my thesis with The Norwegian Meteorological Institute, where I also work part-time.
+I am now in my last and final semester, working on my thesis with The Norwegian Meteorological Institute, where I also work part-time.
 
 <h4 align="left">LinkedIn profile:</h4>
 <b></b>
