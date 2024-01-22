@@ -1,19 +1,12 @@
 Hi there 🙋🏼‍♀️
 
-<img src="https://media.giphy.com/media/lZzhBZW7kvzWYtydVA/giphy.gif" width ="200" height="150">
+<img src="https://media.giphy.com/media/eKDp7xvUdbCrC/giphy.gif" width ="200" height="150">
 
-I see that you have stumbled across my git-account - how lovely! 🎈
+My name is Tonje Martine, and this is my humble git account. 
 
-
-My name is Tonje Martine, and describing myself in five emoji's would look something like this:
-
-🤸 🍷 👩🏼‍💻 🤠 💃
-  
 I have a Bachelor's degree in Software Engineering from OsloMet, and I am currently pursuing a Master's degree in Data Science at NMBU.
-Currently I am studying the follwing subjects:
-- Applied Machine Learning
+I am currently working on my thesis with The Norwegian Meteorological Institute, where I also work part-time.
 
- In addition to this I am working part-time at the Norwegian Meteorological Institute as a Software Engineer, and this is also where I will be writing my thesis. 
 <h4 align="left">LinkedIn profile:</h4>
 <b></b>
 <p align="left">
